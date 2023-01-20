@@ -1,0 +1,16 @@
+/* margin bottom */
+.margin-mb{
+    margin-bottom: 2rem;
+}
+.center{
+   text-align: center;
+   
+}
+.custom{
+    background: #FFFFFF;
+box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+border-radius: 5px;
+width: 360px;
+height: 323px;
+margin-top: 20px;
+}
